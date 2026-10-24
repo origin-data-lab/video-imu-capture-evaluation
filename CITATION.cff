@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: dataset
+title: "Measured Video + IMU Capture Characteristics (Technical Field Note #01)"
+authors:
+  - name: "Origin Data Lab"
+    website: "https://origindatalab.io"
+date-released: 2026-10-02
+url: "https://origindatalab.io/technical-field-notes/video-imu-capture-evaluation.html"
+repository-code: "https://github.com/origin-data-lab/video-imu-capture-evaluation"
+abstract: "Measured video and 6-DoF IMU capture characteristics across 12 consecutive segments of a continuous real-world field recording."
+keywords:
+  - video and IMU
+  - 6-DoF IMU
+  - timestamp integrity
+  - multimodal capture
+  - Physical AI
